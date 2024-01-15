@@ -1,6 +1,6 @@
 import java.util.*;
 
-class PR_lv2_이진변환반복 {
+class PR_lv2_이진변환반복하기 {
     public int[] solution(String s) {
         int[] answer = new int[2];
         int cnt = 0;
